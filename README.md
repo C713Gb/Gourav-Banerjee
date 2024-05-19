@@ -1,4 +1,4 @@
-git# Hi there 👋, Welcome to my Github page!
+## Hi there 👋, Welcome to my Github page!
 I'm Gourav currently working at Purecipher as a Senior Software Consultant.<br>I have 3+ years of experience working in various domains like full stack, backend and frontend technologies.<br>Love to design Distributed Systems to solve complex problems
 
 
